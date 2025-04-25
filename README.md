@@ -1,8 +1,6 @@
 # Mesa de Innovacion e IA de la CESSI
-Repositorio de contenido
-
+##Nuestro Proposito
 Nos motiva que las empresas de la camara se mantengan Relevantes y Valiosas para sus Clientes y Stakeholders mediante la innovación y la IA
-
 
 ## Gestion del Grupo
 
