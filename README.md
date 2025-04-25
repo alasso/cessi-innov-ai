@@ -1,5 +1,5 @@
-# cessi-innov-ai
-Repositorio de contenido de la Mesa de Innovación * AI de CESSI
+# Mesa de Innovacion e IA de la CESSI
+Repositorio de contenido
 
 Nos motiva que las empresas de la camara se mantengan Relevantes y Valiosas para sus Clientes y Stakeholders mediante la innovación y la IA
 
