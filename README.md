@@ -14,11 +14,11 @@ Nos motiva que las empresas de la camara se mantengan Relevantes y Valiosas para
 
 [Marcos de Trabajo](implementacion/frameworks.md)
 
-[Herramientas  ](https://www.notion.so/Herramientas-1dae6beb519681ad89b5c93ccf7ddf84?pvs=21)
+[Herramientas](implementacion/herramientas.md)
 
-[Adopción](https://www.notion.so/Adopci-n-1dae6beb519681af976df3007913a5b4?pvs=21)
+[Adopción](implementación/adopcion.md)
 
-[Organización](https://www.notion.so/Organizaci-n-1dae6beb519681f8a12aed664d605abf?pvs=21)
+[Organización](implementacion/organizacion.md)
 
 [Comportamientos](https://www.notion.so/Comportamientos-1dae6beb5196810fbcb5cb459f6d2c42?pvs=21)
 
