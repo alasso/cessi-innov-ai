@@ -10,11 +10,9 @@ Nos motiva que las empresas de la camara se mantengan Relevantes y Valiosas para
 
 [Miembros](gestiongrupo/miembros.md)
 
-[Acciones](https://www.notion.so/Acciones-1dae6beb51968096af07d744bb4513d5?pvs=21)
-
 ## Implementación de la Innovación
 
-[Marcos de Trabajo](https://www.notion.so/Marcos-de-Trabajo-1dae6beb5196818ba59cf12c203bb698?pvs=21)
+[Marcos de Trabajo](implementacion/frameworks.md)
 
 [Herramientas  ](https://www.notion.so/Herramientas-1dae6beb519681ad89b5c93ccf7ddf84?pvs=21)
 
