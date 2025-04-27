@@ -20,11 +20,11 @@ Nos motiva que las empresas de la camara se mantengan Relevantes y Valiosas para
 
 [Organización](implementacion/organizacion.md)
 
-[Comportamientos](https://www.notion.so/Comportamientos-1dae6beb5196810fbcb5cb459f6d2c42?pvs=21)
+[Comportamientos](implementacion/comportamientos.md)
 
-[Métricas](https://www.notion.so/M-tricas-1dae6beb5196810aa205f1302e98ecc6?pvs=21)
+[Métricas](implementacion/metricas.md)
 
-[Innovación Abierta](https://www.notion.so/Innovaci-n-Abierta-1dae6beb51968130b3eeeea5b2b4b46d?pvs=21)
+[Innovación Abierta](implementacion/inn-abierta.md)
 
 ## Inspiración
 
