@@ -30,7 +30,7 @@ Nos motiva que las empresas de la camara se mantengan Relevantes y Valiosas para
 
 ---
 
-[Contenidos](https://www.notion.so/Contenidos-1dae6beb519681318a40d02029079e68?pvs=21)
+[Contenidos](inspiracion/contenidos.md)
 
 [Casos](https://www.notion.so/Casos-1dae6beb5196815a9798df402cd9fc7e?pvs=21)
 
