@@ -28,20 +28,14 @@ Nos motiva que las empresas de la camara se mantengan Relevantes y Valiosas para
 
 ## Inspiración
 
----
-
 [Contenidos](inspiracion/contenidos.md)
 
-[Casos](https://www.notion.so/Casos-1dae6beb5196815a9798df402cd9fc7e?pvs=21)
+[Casos](inspiracion/casos.md)
 
-[Organizaciones ](https://www.notion.so/Organizaciones-1dae6beb5196815e8a3fc9d8cf82b77c?pvs=21)
+[Organizaciones](inspiracion/organizaciones.md)
 
-[Libros](https://www.notion.so/Libros-1dae6beb5196810591f4f06768ad15b6?pvs=21)
+[Libros](inspiracion/libros.md)
 
-[Cursos](https://www.notion.so/Cursos-1dae6beb51968189bfa6ca71266737de?pvs=21)
+[Cursos](inspiracion/cursos.md)
 
 [Certificaciones](https://www.notion.so/Certificaciones-1dae6beb5196819f896bf8ed1fb5f390?pvs=21)
-
-[How to QA ](https://www.notion.so/How-to-QA-1dae6beb519681099314d2b89c1ab2aa?pvs=21)
-
-[Untitled](Mesa%20Innovacio%CC%81n%20&%20AI%20-%20Wiki%201dae6beb5196804ab413d3d91b772e21/Untitled%201dae6beb51968130a585c125088d4ee7.csv)
