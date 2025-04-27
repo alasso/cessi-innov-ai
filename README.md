@@ -8,7 +8,7 @@ Nos motiva que las empresas de la camara se mantengan Relevantes y Valiosas para
 
 ---
 
-Estrategia de 
+Estrategia de 2025
 
 [Miembros](https://www.notion.so/Miembros-1dae6beb5196803fa4f7f53f0e3d9bdb?pvs=21)
 
