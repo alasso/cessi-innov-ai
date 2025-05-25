@@ -2,13 +2,13 @@
 
 ## Nuestro Proposito
 
-Nos motiva que las empresas de la camara se mantengan Relevantes y Valiosas para sus Clientes y Stakeholders mediante la innovación y la IA
+*Nos motiva que las empresas de la camara se mantengan Relevantes y Valiosas para sus Clientes y Stakeholders mediante la innovación y la IA*
 
 ## Gestion del Grupo
 
 [Estrategia 2025](gestiongrupo/estrategia.md)
 
-[Miembros](gestiongrupo/miembros.md)
+[Comunicación](gestiongrupo/comunicacion.md)
 
 ## Implementación de la Innovación
 
