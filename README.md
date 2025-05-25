@@ -6,36 +6,36 @@
 
 ## Gestion del Grupo
 
-[Estrategia 2025](gestiongrupo/estrategia.md)
+* [Estrategia 2025](gestiongrupo/estrategia.md)
 
-[Comunicación](gestiongrupo/comunicacion.md)
+* [Comunicación](gestiongrupo/comunicacion.md)
 
 ## Implementación de la Innovación
 
-[Marcos de Trabajo](implementacion/frameworks.md)
+* [Marcos de Trabajo](implementacion/frameworks.md)
 
-[Herramientas](implementacion/herramientas.md)
+* [Herramientas](implementacion/herramientas.md)
 
-[Adopción](implementación/adopcion.md)
+* [Adopción](implementación/adopcion.md)
 
-[Organización](implementacion/organizacion.md) 
+* [Organización](implementacion/organizacion.md) 
 
-[Comportamientos](implementacion/comportamientos.md)
+* [Comportamientos](implementacion/comportamientos.md)
 
-[Métricas](implementacion/metricas.md)
+* [Métricas](implementacion/metricas.md)
 
-[Innovación Abierta](implementacion/inn-abierta.md)
+* [Innovación Abierta](implementacion/inn-abierta.md)
 
 ## Inspiración
 
-[Contenidos](inspiracion/contenidos.md)
+* [Contenidos](inspiracion/contenidos.md)
 
-[Casos](inspiracion/casos.md)
+* [Casos](inspiracion/casos.md)
 
-[Organizaciones](inspiracion/organizaciones.md)
+* [Organizaciones](inspiracion/organizaciones.md)
 
-[Libros](inspiracion/libros.md)
+* [Libros](inspiracion/libros.md)
 
-[Cursos](inspiracion/cursos.md)
+* [Cursos](inspiracion/cursos.md)
 
-[Certificaciones](inspiracion/certificaciones.md)
+* [Certificaciones](inspiracion/certificaciones.md)
