@@ -1,9 +1,5 @@
 # **Nuestra estrategia en una pagina:**
 
-![estrategia.png](/Users/alasso/Documents/GitHub/cessi-innov-ai/imagenes/estrategia.png)
-
-
-
-
+![estrategia.png](../imagenes/estrategia.png)
 
 
