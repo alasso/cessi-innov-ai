@@ -1,4 +1,4 @@
-# Espacio de Innovacion e IA de la CESSI
+# Espacio de Innovación e IA de la CESSI
 
 ## Nuestro Proposito
 
